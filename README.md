@@ -30,7 +30,7 @@ Set values for env variables in the .env file, like as follow
     
     GITLAB_RUNNER=/example/git/runner
     
-    PROXY_LOGS=/exaple/proxy/logs
+    PROXY_LOGS=/example/proxy/logs
 
 Read .env:
 
